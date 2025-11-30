@@ -1,4 +1,3 @@
-# --- Fichiers de compilation (Poubelle) ---
 *.o
 *.obj
 *.out
@@ -7,18 +6,15 @@
 *.so
 *.dylib
 
-# --- Dossiers de build (Si tu utilises CMake ou Make) ---
 build/
 bin/
 dist/
 Debug/
 Release/
 
-# --- Fichiers temporaires de l'éditeur (VS Code, CLion, Mac...) ---
 .vscode/
 .idea/
 *.swp
 .DS_Store
 
-# --- Autres ---
 *.log
